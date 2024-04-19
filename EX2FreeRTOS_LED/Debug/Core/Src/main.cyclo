@@ -1,0 +1,10 @@
+../Core/Src/main.c:70:13:LED_Task	5
+../Core/Src/main.c:95:10:read_button	2
+../Core/Src/main.c:102:13:Switch_Task	4
+../Core/Src/main.c:127:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:136:6:UART_Task	5
+../Core/Src/main.c:167:5:main	1
+../Core/Src/main.c:216:6:SystemClock_Config	3
+../Core/Src/main.c:256:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:289:13:MX_GPIO_Init	1
+../Core/Src/main.c:328:6:Error_Handler	1
